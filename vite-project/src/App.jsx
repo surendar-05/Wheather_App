@@ -45,7 +45,7 @@ function App() {
   }
 
    const search=async()=>{
-    let api_Key="8c596e8b498c816be7a2f0647e051848";
+    let api_Key="Paste Your Api Key";
     setLoading(true);
     let url=`https://api.openweathermap.org/data/2.5/weather?q=${text}&appid=${api_Key}&units=Metric`;
 
