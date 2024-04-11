@@ -1,17 +1,21 @@
-#Wheather App
-This repository contains a Wheather  application built with React and Vite. The frontend is developed using React and Vite, providing a fast and efficient development experience. Wheather Api is used to get the real  time uptodate
+# Weather App
 
-Features
-Search the place where ever you want and you get the instant wheather condition
-Responsive design for optimal viewing on various devices
-How to Run
+This repository contains a Weather application built with React and Vite. The frontend is developed using React and Vite, providing a fast and efficient development experience. Weather API is used to get real-time up-to-date weather information.
+
+## Features
+
+- Search for weather conditions for any location and get instant updates.
+- Responsive design for optimal viewing on various devices.
+
+
+#How to Run
 ## Installation
 
 ### Prerequisites
 - Node.js installed on your machine
 
 ### Clone Repository
-git clone https://github.com/Mounieshh/Task_Tracker_App.git
+git clone [https://github.com/surendar-05/Wheather_App.git](https://github.com/surendar-05/Wheather_App.git)
 ### Navigate to Project Directory
 cd vite-project
 ### Install Dependencies
