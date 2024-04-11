@@ -8,7 +8,7 @@ This repository contains a Weather application built with React and Vite. The fr
 - Responsive design for optimal viewing on various devices.
 
 
-#How to Run
+
 ## Installation
 
 ### Prerequisites
