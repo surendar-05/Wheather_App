@@ -26,5 +26,5 @@ npm install
 Before running the app, you need to obtain an API key for Weather API and paste it into the designated variable.
 
 ### Start Development Server
-npm run dev
-The app will run at [http://localhost:5173/](http://localhost:5173/)
+-npm run dev
+-The app will run at [http://localhost:5173/](http://localhost:5173/)
